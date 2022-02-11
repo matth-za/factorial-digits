@@ -1,0 +1,2 @@
+# factorial-digits
+Corigine Assignment 
