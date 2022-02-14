@@ -24,10 +24,10 @@ The sum of any parsed factorial’s digits successfully calculated
 
 Sample Output:
 
->> $ docker run --rm -i factorial digits
+$ docker run --rm -i factorial digits
 10 [ENTER]
 27
->> $ docker run --rm -i factorial digits
+$ docker run --rm -i factorial digits
 100 [ENTER]
 648
 
