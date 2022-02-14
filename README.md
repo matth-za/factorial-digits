@@ -25,14 +25,16 @@ The sum of any parsed factorial’s digits successfully calculated
 Sample Output:
 
 $ docker run --rm -i factorial digits
-10 [ENTER]
-27
-$ docker run --rm -i factorial digits
-100 [ENTER]
-648
+- 10 [ENTER]
+- 27
 
-INSTALL Dockerfile dockerfile1 which contains commands to create dockerfile image factorial-digits
-PYTHON File: factorial-digits.py
+$ docker run --rm -i factorial digits
+- 100 [ENTER]
+- 648
+
+Installing:
+- INSTALL Dockerfile dockerfile1 which contains commands to create dockerfile image factorial-digits
+- PYTHON File: factorial-digits.py
 
 
 
