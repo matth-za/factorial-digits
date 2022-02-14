@@ -22,3 +22,18 @@ Sum of array elements computed using NumPy to get result
 
 The sum of any parsed factorial’s digits successfully calculated
 
+Sample Output:
+
+>> $ docker run --rm -i factorial digits
+10 [ENTER]
+27
+>> $ docker run --rm -i factorial digits
+100 [ENTER]
+648
+
+INSTALL Dockerfile dockerfile1 which contains commands to create dockerfile image factorial-digits
+PYTHON File: factorial-digits.py
+
+
+
+
